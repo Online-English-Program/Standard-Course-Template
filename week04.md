@@ -1,28 +1,12 @@
-## Researching Your Subject
+## Heading Goes Here
 
-The previous lesson introduced certain aspects of planning a technical communication document (for example, analyzing your audience and purpose). This lesson continues with the planning process by discussing ways to research your subject. The focus on research will support the second assignment, which asks you to identify, evaluate, and present Internet resources for people in your field. In this way, you will be tying together issues of audience, purpose, research, writing, and document design.
-
-Many students have not used the campus library since they had to write their term papers in first-year English. An excellent senior chemistry major might never have heard of Chemical Abstracts. Learning how to find and use technical information is not easy.
-
-Trying to learn about all the hundreds of available resources is impossible. You may very well wonder how you will be able to deal with so much information. The guidelines in this lesson on narrowing a topic will suggest strategies to help you sufficiently focus your work so that you can find useful information that will meet your audience's needs.
-
-The Internet Resource Guide, the next assignment we'll be working on, will limit discussion of resources to a few basic tools, such as the Web indexes, online journals, and databases. You should know that this assignment will not cover every research method discussed in the chapter&mdash;for example, questionnaires and personal interviews. But these other methods are very common in the workplace, so be sure to pay attention to the advice provided by the chapter.
-
-For our purposes, the most important thing is to understand the concept of doing research: understanding the difference between general and technical periodicals, using Web-based tools, and so forth. In addition to the resources in class, a reference librarian can help you understand the research process. You can talk with a reference librarian either by physically going to the library or though the communication features on the library website.
-
-At the end of this lesson you will be able to:
-
-* understand the differences between academic and workplace research;
-* choose appropriate research media based on your topic and you audience's needs;
-* use basic research tools such as online catalogs, reference works, periodical indexes, newspaper indexes, and abstract services;
-* employ paraphrases, quotes, and summaries as evidence in persuasive technical documents; and
-* evaluate sources found on the Web.
+Lesson overview and objectives go here.
 
 ---
 
 ## By Tuesday Night
 
-* Read Chapter 6 of _Technical Communication._
+* Read something.
 * Read the instructions for [Project 2.][3]
 * Review some samples of [Project 2.][4]
 * Go to [Class Discussion 4][1], read the discussion prompt, and submit an initial response.
