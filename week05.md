@@ -1,18 +1,12 @@
-## Understanding the Writing Process
+## Heading Goes Here
 
-Last week, you learned about the research process. This week extends that process to involve all aspects of writing. That is, the lesson covers the full process that workplace writers typically undertake as they are working on a piece of technical communication. Research is one phase of this process, but there are also other important phases. This week you'll focus on the basic stages of the writing process: planning, drafting, revising, editing, and proofreading.
-
-At the end of this lesson you will be able to:
-
-* plan and draft a technical document;
-* provide useful feedback for your classmates; and
-* revise, edit, and proofread your work.
+Lesson overview and objectives go here.
 
 ---
 
 ## By Tuesday Night
 
-* Read Chapter 3 of _Technical Communication._
+* Read something.
 * Go to [Class Discussion 5][1], read the discussion prompt, and submit an initial response.
 
 ## By Friday Night
