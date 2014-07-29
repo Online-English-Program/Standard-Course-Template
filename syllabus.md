@@ -14,7 +14,7 @@ Phone: 814.863.5556
 
 ## Course Overview
 
-ENGL 202C, Technical Communication, serves students who are studying and preparing for careers in the sciences and applied sciences, including engineering. This advanced course in writing familiarizes students with the discourse practices prized in their disciplinary and institutional communities and helps them to manage those practices effectively in their own written work. In this way the course teaches those writing strategies and tactics that scientists, engineers, and others will need in order to write successfully on the job.
+Insert brief overview of course here.
 
 So how will this work? Though you will never meet with your instructor and classmates in a physical classroom, this is still a course and not an independent study. This class is paced, which means that there is an established start and end date, and that you will have weekly deadlines to meet throughout the term. In each week of the course, you will be asked to participate in two primary activities: 1) a class discussion about a core aspect of technical communication and 2) a writing workshop. The class discussion will take place in the early part of the week, and the writing workshop will take place in the latter part. This routine will be repeated each week throughout the semester.
 
@@ -24,21 +24,7 @@ Like taking a course on campus, it will be important to keep up with the course 
 
 Students in this course will learn how to:
 
-* Discover and understand the discourse features that distinguish their disciplinary and institutional communities from others.
-* Discover and specify the purpose(s) of their writing.
-* Develop a range of writing processes appropriate to various writing tasks.
-* Identify their readers and describe the characteristics of their readers in a way that forms a sound basis for deciding how to write to them.
-* Invent the contents of their communications through research and reflection.
-* Arrange material to raise and satisfy readers' expectations, using both conventional and rhetorical patterns of organization.
-* Reveal the organization of their communications by using forecasting and transitional statements, headings, and effective page and document design.
-* Observe appropriate generic conventions and formats for technical documents.
-* Design and use tables, graphs, illustrations, and other visuals.
-* Compose effective sentences.
-* Evaluate their documents to be sure that the documents fulfill their purpose and to ensure that they can be revised if necessary.
-* Collaborate effectively with their peers in a community of writers who provide feedback on each others' work and occasionally write together.
-* Write several specific kinds of documents that recur in technical, scientific, and other communities.
-* Employ computer technologies effectively in the solution of communication problems.
-* Communicate in an ethically responsible manner.
+* List course objectives here.
 
 ## Required Textbook
 
