@@ -1,4 +1,4 @@
-## Welcome to English 202C, Technical Communication
+## Welcome to English ###
 
 Insert lesson overview and objectives here.
 
