@@ -1,33 +1,20 @@
-## Writing Workshop 1 - Project 1, Basic Rhetorical Analysis
+## Writing Workshop 1
 
-### Part One: Planning Work. Respond to the prompts for planning your Basic Rhetorical Analysis.
+### Part One
 
-The first step in drafting your Basic Rhetorical Analysis is planning. The following prompts ask you to write about your Analysis, including its audiences, purposes, contexts, contents, and constraints. The goal of your response is to help you begin to get a handle on what you're doing and to engender a conversation with your peers that can advance your thinking in productive ways. When it comes to planning, more tends to be better, so don't hold back.
-
-Prompts for Planning:
-
-1.	When and where was the document produced?
-2.	Who is the audience for the document?
-3.	What is the purpose of the document?
-4.	How is the document organized? 
-5.	In what situations or under what conditions would a person use the document?
-6.	What problems might a user of this document be trying to solve?
+Insert prompt here.
 
 ---
 
-### Part Two: Peer Feedback. Provide peer feedback on responses to the planning prompts.
+### Part Two
 
-Although document plans can be tentative and contingent, it's useful to workshop your ideas with peers, in order to get feedback on what you're thinking about doing and how you're imagining the document context. The following prompts invite you to respond to the planning work of peers. Your goal is to help peers clarify and elaborate their plans and consider aspects they might be overlooking. Be an active reviewer, with the goal of helping peers improve their plans and projects.
-
-1. How would you describe the project and its context for your peer?
-2. What are the strengths of the planning work? What did your peer do well?
-3. What are the weaknesses of the planning work? What needs to be improved?
-4. How, exactly, can your peer improve their planning? What concrete suggestions for improvement can you make?
+Insert prompt here.
 
 ## Writing Workshop 2
 
-### Part One: Draft Submission. 
-Submit a full draft of your Basic Rhetorical Analysis.
+### Part One
+
+Insert prompt here.
 
 ---
 
