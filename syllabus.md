@@ -16,7 +16,7 @@ Phone: 814.863.5556
 
 Insert brief overview of course here.
 
-So how will this work? Though you will never meet with your instructor and classmates in a physical classroom, this is still a course and not an independent study. This class is paced, which means that there is an established start and end date, and that you will have weekly deadlines to meet throughout the term. In each week of the course, you will be asked to participate in two primary activities: 1) a class discussion about a core aspect of technical communication and 2) a writing workshop. The class discussion will take place in the early part of the week, and the writing workshop will take place in the latter part. This routine will be repeated each week throughout the semester.
+So how will this work? Though you will never meet with your instructor and classmates in a physical classroom, this is still a course and not an independent study. This class is paced, which means that there is an established start and end date, and that you will have weekly deadlines to meet throughout the term. In each week of the course, you will be asked to participate in two primary activities: 1) a class discussion about a core aspect of the course and 2) a writing workshop. The class discussion will take place in the early part of the week, and the writing workshop will take place in the latter part. This routine will be repeated each week throughout the semester.
 
 Like taking a course on campus, it will be important to keep up with the course work, as you will be required to participate in class discussions and workshops that have specific time frames and deadlines associated with them. For a more detailed look at what each lesson will entail, as well as due dates for our assignments and activities, refer to the [Weekly Activities][5] page.
 
@@ -65,7 +65,7 @@ NOTE: Only completing part of a class discussion or writing workshop is consider
 
 ## Projects
 
-This course will hold you to the professional standards that prevail in your field. Each of your formal writing projects is expected to look professional and polished. At work, even a single error in spelling, grammar, or proofreading can jeopardize the effectiveness of some communications (depending on the rhetorical situation). Whether it is a resume, memo, or report, your communication should exhibit complete and appropriate format. Grading will reflect the seriousness with which these matters are frequently viewed in the working world. 
+Brief overview of the projects goes here. 
 
 There are five major projects: 
 
