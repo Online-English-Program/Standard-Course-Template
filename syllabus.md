@@ -30,9 +30,7 @@ Students in this course will learn how to:
 
 The following textbook is required:
 
-* _Technical Communication_ by Mike Markel. Bedford/St. Martin's, 2012. Tenth edition. E-book, standard version. You can purchase access to this e-book directly at < [http://bcs.bedfordstmartins.com/techcomm10e/][2] >, or you can buy an access code at the Penn State bookstore. You will have access to the e-book for 180 days.
-
-Note: For this class, we will be using the e-book version of _Technical Communication._ You'll be able to read the full book online once you purchase access to it. The e-book version is considerably cheaper than the print version, and it is accessible wherever you can access the web.
+* Textbook info goes here.
 
 ## Course Requirements and Grading
 
@@ -71,20 +69,20 @@ This course will hold you to the professional standards that prevail in your fie
 
 There are five major projects: 
 
->## Project 1, Basic Rhetorical Analysis
-Technical communication is meant to be used and not just read. Good technical communication communicates information to an audience who will act on that information in a variety of ways: in making hiring decisions, in following technical procedures, in developing research plans, and more. In this project, you will evaluate the usability of a piece of technical communication; that is, you will analyze whether the document effectively communicates the necessary information to its audience and where it fails to do so. In this way, the project will introduce you to basic elements of technical communication. Final Length: Approximately 1000 words.
+>## Project 1
+Brief overview of project goes here.
 
->## Project 2, Internet Resource Guide 
-Through this project, you will become familiar with online communication resources specific to your field of study, including research tools, professional societies, and other Internet sites that members of your field should find useful. You will present and describe those resources to other members of your field in a technical guide. You will need to make decisions about organization, format, and style as a means of creating a usable document for readers. And you will need to learn to write effective abstracts. Final Length: Eight abstracts (one or two paragraphs each) plus front matter.
+>## Project 2
+Brief overview of project goes here.
 
->## Project 3, Job Application Package  
-The process of applying for a job is extremely important for technical communicators. As a job applicant, you have a vested interest in communicating your suitability for a position with the specific audience making employment decisions. This project will ask you to create resumes and cover letters attuned to the rhetorical situations of two actual job offerings in your field. You will also discuss your writing and communication decisions in a reflective memo. Final Length: Two resumes, two cover letters, and a 1000-word cover memo.
+>## Project 3  
+Brief overview of project goes here.
 
->## Project 4, Technical Description 
-Engineers and scientists are often required to describe a technical object, concept, or process to someone who has little knowledge or experience with the subject at hand. For example, an engineering firm might write a proposal to bid on a contract to develop a helicopter for the Defense Department; one section of the proposal would be a detailed description of the product the company proposes to develop. Technical descriptions are used before products and processes are developed (as part of proposals and planning documents), during development (in progress reports, for instance), and afterwards (as part of marketing and promotional literature and technical support documents). You will write a technical description for an object, concept, or process in your field. Final Length: Approximately 1000 words.
+>## Project 4
+Brief overview of project goes here.
 
->## Project 5, Instruction Set 
-Instruction sets are common technical documents in many disciplines and occupations. Employees read instructions to learn how to assemble a product or complete a procedure. Supervisors write out company policies that oftentimes serve as instruction sets. Customers read instructions for using a product. You will develop a set of instructions that shows users how to perform a specific task. Final Length: Approximately 1000 words.
+>## Project 5
+Brief overview of project goes here.
 
 ## Grades
 
@@ -164,7 +162,7 @@ This syllabus is subject to change. Changes to the syllabus will only be made wi
 Pennsylvania State University &copy; 2014
 
 [1]: mailto:firstlast@psu.edu
-[2]: http://bcs.bedfordstmartins.com/techcomm10e/
+[2]: http://textbooklink.com
 [3]: http://www.libraries.psu.edu/psul/infosvcs/offcampus.html
 [4]: http://www.libraries.psu.edu/
 [5]: /section/content/
